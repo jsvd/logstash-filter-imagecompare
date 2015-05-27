@@ -1,3 +1,4 @@
+# translated algorithm from http://mindmeat.blogspot.fr/2008/07/java-image-comparison.html
 require 'java'
 require 'stringio'
 
